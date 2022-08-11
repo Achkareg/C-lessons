@@ -11,23 +11,22 @@ int num2 = ShowSecondDigit(num);
 Console.WriteLine("This number without second digit: "+ num2);
 */
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-/*
+
 int ShowThirdDigit (int number)
 {
-    while (number >= 1000) 
+    while (Math.Abs(number) >= 1000) 
     number /= 10;
     int n3 = number % 10;
-    return n3;
-    
+    return Math.Abs(n3);
 }
 Console.WriteLine("Please insert the number");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number/100>1) 
+if (Math.Abs(number/100)>1)
     {int num2 = ShowThirdDigit(number);
     Console.WriteLine("The third digit: "+ num2);
     }
 else Console.WriteLine("There is no third digit");
-*/
+
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 /*
 bool Dayoff (int day)
