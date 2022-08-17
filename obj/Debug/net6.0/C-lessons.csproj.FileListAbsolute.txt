@@ -1,0 +1,15 @@
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\bin\Debug\net6.0\C-lessons.exe
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\bin\Debug\net6.0\C-lessons.deps.json
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\bin\Debug\net6.0\C-lessons.runtimeconfig.json
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\bin\Debug\net6.0\C-lessons.dll
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\bin\Debug\net6.0\C-lessons.pdb
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.dll
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\refint\C-lessons.dll
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.pdb
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\C-lessons.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Учеба\C#\C-lessons\obj\Debug\net6.0\ref\C-lessons.dll

@@ -11,7 +11,7 @@ int num2 = ShowSecondDigit(num);
 Console.WriteLine("This number without second digit: "+ num2);
 */
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-
+/*
 int ShowThirdDigit (int number)
 {
     while (Math.Abs(number) >= 1000) 
@@ -26,7 +26,7 @@ if (Math.Abs(number/100)>1)
     Console.WriteLine("The third digit: "+ num2);
     }
 else Console.WriteLine("There is no third digit");
-
+*/
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 /*
 bool Dayoff (int day)
@@ -43,4 +43,13 @@ if (d>7)
     }
 bool isday = Dayoff(d);
 Console.WriteLine(isday);
+*/
+/*int n =Convert.ToInt32(Console.ReadLine());
+int Count=1;
+while (Count <=n)
+{
+    if (Count%2==0)
+    Console.Write(Count+",");
+    Count++;
+}
 */
