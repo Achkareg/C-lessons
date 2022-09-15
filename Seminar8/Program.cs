@@ -162,7 +162,6 @@ ShowArray(MatrixMultiplication(matrix1,matrix2));
 int[] CreateRandomDifferentArray(int size) //Создание одномерного массива из неповторяющихся элементов
 {
 int [] newArray = new int[size];
-//newArray[0] = new Random().Next(10, 100);
 for (int i = 0; i < size; i++)
     {
         newArray[i] = new Random().Next(10, 100);
